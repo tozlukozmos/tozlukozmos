@@ -1,4 +1,4 @@
-Hi 👋 My name is Abdulkadir Eyigül
+Hi 👋 My name is Abdulkadir
 ==================================
 
 Jr. Frontend Developer
