@@ -8,7 +8,7 @@ I have been learning programming for 2 years.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [tozlukozmos](http://tozlukozmos.github.io/)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Flutter and Dart
 * 🤝  I'm open to collaborating on mobile and web apps
 * ⚡  I love asking, and finding solution
 
