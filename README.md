@@ -8,7 +8,7 @@ I have been working with frontend technologies for 2 years.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [tozlukozmos](http://https://tozlukozmos.github.io)
-* 🧠  I'm learning Spring
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on mobile and web apps
 * ⚡  I love asking, and finding solution
 
