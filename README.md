@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulkadir
 ==================================================================================================================================
 
-Jr. Frontend Developer
+Junior Mobile Developer
 ----------------------
 
-I have been working with frontend technologies for 2 years.
+I have been working with frontend and mobile technologies for 3 years.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [tozlukozmos](http://https://tozlukozmos.github.io)
